@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on My Portfolio</title>
+    <link>https://SamMajumder.github.io/Sambadi_Portfolio/</link>
+    <description>Recent content in Data Science Portfolio on My Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Apr 2023 11:13:32 -0400</lastBuildDate><atom:link href="https://SamMajumder.github.io/Sambadi_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SunScope: An application for forecasting yield in Crop Sunflower under climate change</title>
+      <link>https://SamMajumder.github.io/Sambadi_Portfolio/post/chapter-3/</link>
+      <pubDate>Wed, 26 Apr 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://SamMajumder.github.io/Sambadi_Portfolio/post/chapter-3/</guid>
+      <description>The code for this project can be found on my GitHub
+Link to GitHub Repository
+The prototype version of the SunScope app can be found here: https://sammajumder.shinyapps.io/SunScope/?_ga=2.11639037.893216896.1682461636-683921061.1681565342
+This study also resulted in a scientific paper that is currently under peer-review. The paper can be read for free here: doi: https://doi.org/10.1101/2023.04.07.536012
+BACKGROUND: The global food production is vulnerable to adverse effects caused by a changing climate, leading to potential crop losses and affecting food security.</description>
+    </item>
+    
+    <item>
+      <title>A Machine Learning approach to study plant functional trait divergence</title>
+      <link>https://SamMajumder.github.io/Sambadi_Portfolio/post/chapter-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://SamMajumder.github.io/Sambadi_Portfolio/post/chapter-1/</guid>
+      <description>The code for this project can be found on my GitHub
+Link to GitHub Repository
+A Shiny app was developed to articulate the results of this study in an interactive manner. The application can be found here: https://sammajumder.shinyapps.io/TraitDivergenceSunflowers/?_ga=2.257923650.893216896.1682461636-683921061.1681565342
+This study also resulted in a scientific paper that is currently under peer-review. The paper can be read for free here: doi: https://doi.org/10.1101/2023.03.16.533012
+BACKGROUND: Plants diversify across multiple trait axes and this is a hallmark of plant evolution.</description>
+    </item>
+    
+    <item>
+      <title>Applying an interpretable machine learning approach to assess intraspecific trait variation under landscape-scale population differentiation</title>
+      <link>https://SamMajumder.github.io/Sambadi_Portfolio/post/chapter-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://SamMajumder.github.io/Sambadi_Portfolio/post/chapter-2/</guid>
+      <description>The code for this project can be found on my GitHub
+Link to GitHub Repository
+A Shiny app was developed to articulate the results of this study in an interactive manner. The application can be found here: https://sammajumder.shinyapps.io/TraitDivergenceIntraSpecific/?_ga=2.254737985.893216896.1682461636-683921061.1681565342
+This study also resulted in a scientific paper that is currently under peer-review. The paper can be read for free here: doi: https://doi.org/10.1101/2023.04.07.536012
+BACKGROUND: Intraspecific functional trait divergence is an important aspect of plant ecology, and understanding the mechanisms underlying trait variation is crucial for predicting plant responses to environmental change.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://SamMajumder.github.io/Sambadi_Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://SamMajumder.github.io/Sambadi_Portfolio/contact/</guid>
+      <description>My social media and email
+   Platform URL     LinkedIn: https://www.linkedin.com/in/sam-majumder-25720870/   GitHub: https://github.com/SamMajumder   Email: sambadimajumder@gmail.com    </description>
+    </item>
+    
+  </channel>
+</rss>
